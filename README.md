@@ -6,7 +6,8 @@
 
 # 👋 Hi, I’m Pavan Kumar Yella 👋
 
-🎓 **MSc Student in Industrial Engineering & International Management**
+📊 **Data Analyst & Data Engineer**
+🎓 **MSc Student in Industrial Engineering & International Management** — College Fresenius University, Berlin
 📍 Berlin, Germany
 🔗 [LinkedIn](https://www.linkedin.com/in/pavankumaryella16/) | 📧 pavan.yella16@gmail.com
 
@@ -14,11 +15,11 @@
 
 ## ▶️ Introduction
 
-I am a Master's student in **Industrial Engineering & International Management** at Hochschule Fresenius University, Berlin, with a strong passion for **Data Engineering**, **Business Analytics**, and **Process Optimization**.
+I am an **Aspiring Data Engineer & Business Analyst** with hands-on experience building **ETL pipelines**, **data models**, and **interactive Power BI dashboards** that turn raw data into actionable business insights.
 
-With a solid background in **Production Engineering** and **Business Analysis**, I am actively transitioning into a **Data Engineer / Business Analyst** role. I focus on building **scalable data pipelines**, implementing **ETL workflows**, and creating **interactive dashboards** that drive data-informed decision-making.
+My core expertise lies in **data analysis**, **business intelligence**, and **process optimization** — transforming complex datasets into clear, decision-ready reports. I work with **Python**, **SQL**, **DuckDB**, and **Power BI** to build end-to-end data workflows from extraction to visualization.
 
-**🎯 Career Goal:** Secure a Data Engineer or Business Analyst role in Berlin by February 2027.
+**🎯 Career Goal:** Secure a **Data Engineer** or **Business Analyst** role in Berlin by February 2027.
 
 ---
 
@@ -26,11 +27,11 @@ With a solid background in **Production Engineering** and **Business Analysis**,
 
 | 🔧 Skill Area | Technologies |
 |:---|:---|
-| **Data Engineering** | ETL Pipelines, Data Modeling, SQL, Python |
-| **Business Intelligence** | Power BI, Dashboards, KPI Reporting |
-| **Data Analysis** | pandas, NumPy, DuckDB, Excel/VBA |
+| **Data Engineering** | ETL Pipelines, Data Modeling, SQL, Python, DuckDB |
+| **Business Intelligence & Analytics** | Power BI Dashboards, DAX, KPI Reporting, Data Visualization |
+| **Data Analysis** | pandas, NumPy, DuckDB, Data Cleaning, EDA |
 | **Cloud & Tools** | Google Colab, Jupyter, Git/GitHub |
-| **Domain** | Supply Chain, Logistics, Manufacturing |
+| **Domain Knowledge** | Supply Chain Analytics, Logistics Optimization, Manufacturing Data |
 
 ---
 
@@ -38,22 +39,22 @@ With a solid background in **Production Engineering** and **Business Analysis**,
 
 ### 🖥️ Programming & Scripting
 
-- **Python** — Data processing, ETL scripting, automation
-- **SQL** — Querying, data transformation, database operations
-- **Excel / VBA** — Data manipulation, reporting automation
+- **Python** — Data processing, ETL scripting, data cleaning, automation
+- **SQL** — Advanced querying, data transformation, window functions, CTEs
+- **Excel / VBA** — Data manipulation, pivot tables, reporting automation
 
 ### 📊 Data & Analytics
 
-- **Power BI** — Interactive dashboards, KPI visualization, DAX measures
-- **pandas & NumPy** — Data cleaning, analysis, transformation
-- **DuckDB / SQLite** — Lightweight database operations
-- **Matplotlib / Seaborn** — Data visualization
+- **Power BI** — Interactive dashboards, DAX measures, KPI visualization
+- **pandas & NumPy** — Data cleaning, analysis, transformation, EDA
+- **DuckDB / SQLite** — Lightweight database operations and SQL queries
+- **Matplotlib & Seaborn** — Statistical data visualization
 
 ### ☁️ Cloud & Tools
 
-- **Google Colab / Jupyter** — Notebook-based development
-- **Git / GitHub** — Version control and collaboration
-- **Apache Spark** — Big data processing (learning)
+- **Google Colab / Jupyter** — Notebook-based data development
+- **Git / GitHub** — Version control and project collaboration
+- **Apache Spark** — Big data processing (currently learning)
 
 ---
 
@@ -63,11 +64,11 @@ With a solid background in **Production Engineering** and **Business Analysis**,
 
 🔗 **[View Repository](https://github.com/PavanKumarYella16/BLMO-Logistics-Engine)**
 
-End-to-end **Data Engineering Pipeline** for **Berlin Last-Mile Logistics Optimization** — designed as part of my Master's Thesis.
+**End-to-end Data Engineering Pipeline** for **Berlin Last-Mile Logistics Optimization** — designed as part of my Master's Thesis.
 
-- **🎯 Purpose:** Optimize last-mile carrier selection using data-driven decision support
+- **🎯 Purpose:** Build a data-driven decision support system for last-mile carrier selection
 - **🛠️ Stack:** Python, SQL, DuckDB, Power BI, Google Colab
-- **⚡ Highlights:** Automated ETL workflow, carrier scoring system, interactive dashboards
+- **⚡ Highlights:** Automated ETL workflow, carrier scoring model, interactive dashboards with KPIs
 
 ---
 
@@ -75,9 +76,9 @@ End-to-end **Data Engineering Pipeline** for **Berlin Last-Mile Logistics Optimi
 
 🔗 **[View Repository](https://github.com/PavanKumarYella16/logikur)**
 
-Data analytics and visualization project with interactive dashboards and API endpoints for business insights.
+A data analytics and visualization platform with interactive dashboards and REST API endpoints.
 
-- **🎯 Purpose:** Demonstrate data analytics workflows with Python Flask backend and BI dashboards
+- **🎯 Purpose:** Demonstrate full-stack data analytics with Python Flask backend and BI dashboards
 - **🛠️ Stack:** Python, Flask, APIs, Data Visualization
 - **⚡ Highlights:** REST API endpoints, interactive dashboards, business intelligence reporting
 
@@ -87,10 +88,10 @@ Data analytics and visualization project with interactive dashboards and API end
 
 | 🎓 Area | Status |
 |:---|:---|
-| **Data Engineering** (ETL, Pipelines) | 🟡 Actively Learning |
-| **SQL Advanced Queries** (JOIN, Subqueries, Window Functions) | 🟡 In Progress |
+| **Data Engineering** (ETL, Pipelines, Data Modeling) | 🟡 Actively Learning |
+| **SQL Advanced Queries** (JOIN, Subqueries, Window Functions, CTEs) | 🟡 In Progress |
 | **Python for Data Science** (pandas, NumPy, EDA) | 🟢 Building Projects |
-| **Power BI & Dashboards** (DAX, Custom Visuals) | 🟢 Building Projects |
+| **Power BI & Dashboards** (DAX, Custom Visuals, KPIs) | 🟢 Building Projects |
 | **Cloud Platforms** (AWS/GCP/Azure) | 🔵 Planned |
 | **Apache Spark** (Big Data Processing) | 🔵 Planned |
 | **German Language** (B1 Level) | 🟡 Learning |
@@ -99,11 +100,11 @@ Data analytics and visualization project with interactive dashboards and API end
 
 ## 💼 Professional Experience
 
-| Role | Domain | Key Skills |
+| Role | Domain | Data-Related Achievements |
 |:---|:---|:---|
-| **Production Engineer** (1.5 yrs) | Manufacturing | Process Improvement, Material Management, Downtime Reduction |
 | **Business Analyst** (1.5 yrs) | SaaS / Data | CRM/ERP Integration, Data Dashboards, Business Requirements |
-| **Working Student** (Current) | Logistics | Delivery Operations, Process Efficiency |
+| **Working Student** (Current) | Logistics | Delivery Operations, Process Efficiency Analysis |
+| **Production Engineer** | Manufacturing | Process Improvement, Material Management, Downtime Reduction |
 
 ---
 
@@ -123,7 +124,7 @@ Data analytics and visualization project with interactive dashboards and API end
 
 ## 🌐 Connect With Me
 
-I am always open to connecting with professionals, mentors, and fellow data enthusiasts who are passionate about **Data Engineering**, **Analytics**, and **Process Optimization**!
+I am always open to connecting with professionals, mentors, and fellow data enthusiasts who are passionate about **Data Engineering**, **Business Analytics**, and **Data Visualization**!
 
 | Platform | Link |
 |:---|:---|
@@ -142,11 +143,12 @@ I am always open to connecting with professionals, mentors, and fellow data enth
 
 ## 🏆 Key Achievements
 
+- 📊 **Data Analyst Mindset** — Transformed raw data into actionable business insights across multiple projects
+- 🐍 **Python & SQL Projects** — Built ETL pipelines and BI dashboards for real-world logistics and analytics
 - 🎓 **Master's Student** — Industrial Engineering & International Management, Berlin (Expected: Feb 2027)
-- 🏭 **3+ Years of Industry Experience** — Production Engineering + Business Analysis
-- 📊 **Data-Driven Projects** — Built ETL pipelines and BI dashboards for real-world logistics and analytics
 - 🌍 **International Exposure** — Working and studying in Berlin, Germany
-- 🚀 **Continuous Learner** — Actively upskilling in Data Engineering, Cloud, and Big Data
+- 🚀 **Continuous Learner** — Actively upskilling in Data Engineering, Cloud, and Big Data Technologies
+- 👔 **3+ Years of Professional Experience** — Across data, logistics, and manufacturing domains
 
 ---
 
