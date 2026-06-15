@@ -102,7 +102,7 @@ A data analytics and visualization platform with interactive dashboards and REST
 
 | Role | Domain | Data-Related Achievements |
 |:---|:---|:---|
-| **Business Analyst** (1.5 yrs) | SaaS / Data | CRM/ERP Integration, Data Dashboards, Business Requirements |
+| **Data Analyst** (1.5 yrs) | SaaS / Data | CRM/ERP Integration, Data Dashboards, Business Requirements |
 | **Working Student** (Current) | Logistics | Delivery Operations, Process Efficiency Analysis |
 | **Production Engineer** | Manufacturing | Process Improvement, Material Management, Downtime Reduction |
 
