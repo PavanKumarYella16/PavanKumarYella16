@@ -19,7 +19,7 @@ I am an **Aspiring Data Engineer & Business Data Analyst** with hands-on experie
 
 My core expertise lies in **data analysis**, **business intelligence**, and **process optimization** — transforming complex datasets into clear, decision-ready reports. I work with **Python**, **SQL**, **DuckDB**, and **Power BI** to build end-to-end data workflows from extraction to visualization.
 
-**🎯 Career Goal:** Secure a **Data Engineer** or **Business Analyst** role in Berlin by February 2027.
+**🎯 Career Goal:** Secure a **Data Engineer** or **Data Analyst** role in Berlin by February 2027.
 
 ---
 
@@ -130,7 +130,7 @@ I am always open to connecting with professionals, mentors, and fellow data enth
 |:---|:---|
 | 🔗 **LinkedIn** | [linkedin.com/in/pavankumaryella16](https://www.linkedin.com/in/pavankumaryella16/) |
 | 💻 **GitHub** | [github.com/PavanKumarYella16](https://github.com/PavanKumarYella16) |
-| 📧 **Email** | pavan.yella16@gmail.com |
+| 📧 **Email** | pavankumaryella16@gmail.com |
 
 ---
 
