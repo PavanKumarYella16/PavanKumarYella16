@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Pavan Kumar Yella :wave:
 
-<!--
-**PavanKumarYella16/PavanKumarYella16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :bulb: About Me
+Master's student in Industrial Engineering & International Management in Berlin,
+transitioning into **Data Engineering / Business Analytics**.
 
-Here are some ideas to get you started:
+### :rocket: What I'm Working On
+- Data engineering projects
+- Logistics optimization use cases
+- SQL, Python, ETL, dashboards
+- Cloud and analytics learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :hammer: Tech Stack
+**Python | SQL | Power BI | Excel | Git | ETL | Data Analytics**
+
+### :star: Featured Projects
+
+#### :truck: BLMO-Logistics-Engine
+End-to-end data engineering pipeline for Berlin last-mile logistics optimization.
+
+#### :chart_with_upwards_trend: logikur
+Short one-line project summary here.
+
+### :envelope: Connect With Me
+- LinkedIn: [your link]
+- GitHub: [your profile]
