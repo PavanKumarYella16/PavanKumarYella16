@@ -9,7 +9,7 @@
 📊 **Data Analyst & Data Engineer**
 🎓 **MSc Student in Industrial Engineering & International Management** — College Fresenius University, Berlin
 📍 Berlin, Germany
-🔗 [LinkedIn](https://www.linkedin.com/in/pavankumaryella16/) | 📧 pavan.yella16@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/pavankumaryella16/) | 📧 pavankumaryella16@gmail.com
 
 ---
 
