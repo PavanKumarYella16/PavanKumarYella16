@@ -15,7 +15,7 @@
 
 ## ▶️ Introduction
 
-I am an **Aspiring Data Engineer & Business Analyst** with hands-on experience building **ETL pipelines**, **data models**, and **interactive Power BI dashboards** that turn raw data into actionable business insights.
+I am an **Aspiring Data Engineer & Business Data Analyst** with hands-on experience building **ETL pipelines**, **data models**, and **interactive Power BI dashboards** that turn raw data into actionable business insights.
 
 My core expertise lies in **data analysis**, **business intelligence**, and **process optimization** — transforming complex datasets into clear, decision-ready reports. I work with **Python**, **SQL**, **DuckDB**, and **Power BI** to build end-to-end data workflows from extraction to visualization.
 
